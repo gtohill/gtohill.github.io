@@ -8,3 +8,9 @@
 
 
 ### Have fun and be safe!
+
+#### Try Python Code
+```python
+s = 'This is python code'
+print s
+```
